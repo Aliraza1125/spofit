@@ -1,0 +1,202 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Dec 2024 20:28:29 at https://spofit.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://spofit.co/ -O1 "C:\Users\Ali Raza\Downloads\ATS\spofit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:32:35	Error: 	"Not Found" (404) at link https://spofit.co/wp-content/plugins/feeds-for-youtube/css/sb-youtube-free.min.css?ver=2.2.1 (from https://spofit.co/)
+20:36:21	Warning: 	Moved Permanently for https://spofit.co/product-category/team-wears/custom-swimwear-manufacturers/https://spofit.co/product-category/team-wears/custom-swimwear-manufacturers/
+20:36:21	Warning: 	Redirected link is identical because of 'URL Hack' option: https://spofit.co/product-category/team-wears/custom-swimwear-manufacturers/https://spofit.co/product-category/team-wears/custom-swimwear-manufacturers/ and https://spofit.co/product-category/team-wears/custom-swimwear-manufacturers/https:/spofit.co/product-category/team-wears/custom-swimwear-manufacturers/
+20:36:21	Warning: 	File has moved from https://spofit.co/product-category/team-wears/custom-swimwear-manufacturers/https://spofit.co/product-category/team-wears/custom-swimwear-manufacturers/ to https://spofit.co/product-category/team-wears/custom-swimwear-manufacturers/https:/spofit.co/product-category/team-wears/custom-swimwear-manufacturers/
+20:37:40	Error: 	"Forbidden" (403) at link https://scontent-phx1-1.cdninstagram.com/v/t51.75761-15/467654542_18341994874181597_5697368960931169972_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=64QanGwGaSsQ7kNvgGddMeq&_nc_zt=23&_nc_ht=scontent-phx1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Az7Jr0n_5x1gzhDu4pRsvyz&oh=00_AYBsL1lB0M3wq0R2cubc6Utk36Ibwn6ncxdKCCbXC4IAWw&oe=67564811 (from https://spofit.co/)
+20:37:40	Error: 	"Forbidden" (403) at link https://scontent-phx1-1.cdninstagram.com/v/t39.30808-6/457094478_18331036249181597_450820523210314995_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=18de74&_nc_ohc=9Zkqv1nx1H0Q7kNvgH766ae&_nc_zt=23&_nc_ht=scontent-phx1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Az7Jr0n_5x1gzhDu4pRsvyz&oh=00_AYDsjOFOgT4vF3YkVHwoXDh-tR9-hBvkSnj-lIZ-iwfjqQ&oe=67563EE6 (from https://spofit.co/)
+20:37:40	Error: 	"Forbidden" (403) at link https://scontent-phx1-1.cdninstagram.com/v/t39.30808-6/452254163_18326082229181597_1494867001840393506_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=yqq94ozrEJYQ7kNvgF9qSeU&_nc_zt=23&_nc_ht=scontent-phx1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Az7Jr0n_5x1gzhDu4pRsvyz&oh=00_AYCMPE2KQ1WiW0SUVQ-JGXE86nOWpB5M2pqtXihc8y95vA&oe=67561CB6 (from https://spofit.co/)
+20:37:40	Error: 	"Forbidden" (403) at link https://scontent-phx1-1.cdninstagram.com/v/t39.30808-6/451017218_18324915766181597_7208378340573411136_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=llhDttw1UCwQ7kNvgFsNCIV&_nc_zt=23&_nc_ht=scontent-phx1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Az7Jr0n_5x1gzhDu4pRsvyz&oh=00_AYBP689xYW56Dupc9hwVmdhHT1Nrc72hr2vBdN9i2sI3iw&oe=67563195 (from https://spofit.co/)
+20:37:40	Error: 	"Forbidden" (403) at link https://scontent-phx1-1.cdninstagram.com/v/t51.29350-15/448309936_1006467897860555_5146065938607503211_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=ulC7KWy5-RUQ7kNvgE51y75&_nc_zt=23&_nc_ht=scontent-phx1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Az7Jr0n_5x1gzhDu4pRsvyz&oh=00_AYB_7_aql3VdhAakjRtI2dlUHpv1HQqb1mugosfvXDt6zg&oe=67562356 (from https://spofit.co/)
+20:37:40	Error: 	"Forbidden" (403) at link https://scontent-phx1-1.cdninstagram.com/v/t51.29350-15/447952710_2796842640463760_8496233444166411797_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=hwjoxQBmRIcQ7kNvgFiD-E4&_nc_zt=23&_nc_ht=scontent-phx1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Az7Jr0n_5x1gzhDu4pRsvyz&oh=00_AYCKbb3njVRhWot_hSoCEpuvoORRHF13Q9zy5QFm7LjKxQ&oe=67562B72 (from https://spofit.co/)
+20:37:40	Error: 	"Forbidden" (403) at link https://scontent-phx1-1.cdninstagram.com/v/t51.29350-15/447761490_1125906628463399_7399777095016367815_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=tZZBk8izHgAQ7kNvgECG0Et&_nc_zt=23&_nc_ht=scontent-phx1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Az7Jr0n_5x1gzhDu4pRsvyz&oh=00_AYBmjJ5feNEsMGBiDc1mF3ECA7weJ7QFsDI1DF4gHB2pag&oe=67564D00 (from https://spofit.co/)
+20:37:40	Error: 	"Forbidden" (403) at link https://scontent-phx1-1.cdninstagram.com/v/t51.29350-15/447921861_1118748742647556_8471704158915069882_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=uyD0TBnJtmgQ7kNvgH_Yj5K&_nc_zt=23&_nc_ht=scontent-phx1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Az7Jr0n_5x1gzhDu4pRsvyz&oh=00_AYAxPKyo5z-uTxhy-nuUTYudg0DyKiiw0RXZfVGQ8EKGyQ&oe=6756504B (from https://spofit.co/)
+20:37:40	Error: 	"Forbidden" (403) at link https://scontent-phx1-1.cdninstagram.com/v/t51.29350-15/447547470_425939303653816_3733298058275596036_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=nWv5-4Ns8mYQ7kNvgFH3dFw&_nc_zt=23&_nc_ht=scontent-phx1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Az7Jr0n_5x1gzhDu4pRsvyz&oh=00_AYBmwQ0ehFJMYaHfaElVFgjD_QGBDUvmvChpmGm4BJFZ7Q&oe=67562FF3 (from https://spofit.co/)
+20:37:40	Error: 	"Bad Request" (400) at link https://spofit.co/wp-admin/admin-ajax.php (from https://spofit.co/)
+20:38:33	Error: 	"Not Found" (404) at link https://spofit.co/Version/ (from https://spofit.co/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/swiper-bundle.min.js?ver=1.4.4)
+20:38:33	Error: 	"Not Found" (404) at link https://spofit.co/e (from https://spofit.co/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/swiper-bundle.min.js?ver=1.4.4)
+20:38:33	Error: 	"Not Found" (404) at link https://spofit.co/t.params.url (from https://spofit.co/wp-content/plugins/rometheme-for-elementor/widgets/assets/js/swiper-bundle.min.js?ver=1.4.4)
+20:38:38	Warning: 	Moved Permanently for https://spofit.co/?p=179
+20:38:38	Warning: 	File has moved from https://spofit.co/?p=179 to https://spofit.co/about-us/
+20:38:38	Warning: 	Moved Permanently for https://spofit.co/?p=653
+20:38:38	Warning: 	File has moved from https://spofit.co/?p=653 to https://spofit.co/our-products/
+20:48:39	Error: 	"Not Found" (404) at link https://spofit.co/product-category/sports-wear/custom-hoodie-manufacturer/ (from https://spofit.co/product-category/sports-wear/hoodies/)
+21:04:35	Warning: 	Moved Permanently for https://spofit.co/?p=656
+21:04:35	Warning: 	File has moved from https://spofit.co/?p=656 to https://spofit.co/contact-us/
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/content (from https://spofit.co/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.js?ver=4.2.5)
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/footer (from https://spofit.co/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.js?ver=4.2.5)
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/header (from https://spofit.co/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.js?ver=4.2.5)
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/sidebar (from https://spofit.co/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.js?ver=4.2.5)
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/cute-alert.js (from https://spofit.co/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=3.8.8)
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/${i}/img/${e}.svg (from https://spofit.co/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=3.8.8)
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/Trident/ (from https://spofit.co/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.21.5)
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/[a-z (from https://spofit.co/wp-content/plugins/instagram-feed-pro/js/sbi-scripts.min.js?ver=6.4)
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/-negative.svg (from https://spofit.co/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.5)
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/OPR/ (from https://spofit.co/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.5)
+21:04:39	Error: 	"Not Found" (404) at link https://spofit.co/window.location.href (from https://spofit.co/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.17.0)
+21:04:39	Warning: 	Moved Permanently for https://spofit.co/product-category/sports-wear/page/1/
+21:04:39	Warning: 	File has moved from https://spofit.co/product-category/sports-wear/page/1/ to https://spofit.co/product-category/sports-wear/
+21:04:48	Warning: 	Moved Permanently for https://spofit.co/?p=2248
+21:04:48	Warning: 	File has moved from https://spofit.co/?p=2248 to https://spofit.co/product/athletic-floral-skinny-leggings/
+21:04:48	Warning: 	Moved Permanently for https://spofit.co/?p=2609
+21:04:48	Warning: 	File has moved from https://spofit.co/?p=2609 to https://spofit.co/product/attractive-lime-yellow-baby-girl-polo-shirt-twirled-style/
+21:05:02	Warning: 	Moved Permanently for https://spofit.co/?p=2467
+21:05:02	Warning: 	File has moved from https://spofit.co/?p=2467 to https://spofit.co/product/best-sublimated-american-football-jersey-petite-sleeves-v-neck/
+21:05:16	Warning: 	Moved Permanently for https://spofit.co/?p=2450
+21:05:16	Warning: 	File has moved from https://spofit.co/?p=2450 to https://spofit.co/product/camo-protector-rashguard/
+21:05:16	Warning: 	Moved Permanently for https://spofit.co/?p=2566
+21:05:16	Warning: 	File has moved from https://spofit.co/?p=2566 to https://spofit.co/product/durable-camo-sublimated-trouser/
+21:05:20	Warning: 	Moved Permanently for https://spofit.co/?p=2644
+21:05:20	Warning: 	File has moved from https://spofit.co/?p=2644 to https://spofit.co/product/compression-t-shirt-round-neck/
+21:05:23	Warning: 	Moved Permanently for https://spofit.co/?p=2604
+21:05:23	Warning: 	File has moved from https://spofit.co/?p=2604 to https://spofit.co/product/fleece-jogger-pant-with-elasticated-bottoms/
+21:05:23	Warning: 	Moved Permanently for https://spofit.co/?p=2635
+21:05:23	Warning: 	File has moved from https://spofit.co/?p=2635 to https://spofit.co/product/round-neck-shirt-polyester-raglan-style/
+21:05:23	Warning: 	Moved Permanently for https://spofit.co/?p=2613
+21:05:23	Warning: 	File has moved from https://spofit.co/?p=2613 to https://spofit.co/product/cool-green-baby-boy-polo-shirt-collared-cut/
+21:05:27	Warning: 	Moved Permanently for https://spofit.co/?p=2595
+21:05:27	Warning: 	File has moved from https://spofit.co/?p=2595 to https://spofit.co/product/polyester-fleece-track-hoodie-with-drawstring/
+21:05:36	Warning: 	Moved Permanently for https://spofit.co/?p=2473
+21:05:36	Warning: 	File has moved from https://spofit.co/?p=2473 to https://spofit.co/product/cozy-sleeveless-puffer-vest-with-full-zip/
+21:05:51	Warning: 	Moved Permanently for https://spofit.co/?p=2400
+21:05:51	Warning: 	File has moved from https://spofit.co/?p=2400 to https://spofit.co/product/curvy-premium-running-shorts/
+21:05:51	Warning: 	Moved Permanently for https://spofit.co/?p=2454
+21:05:51	Warning: 	File has moved from https://spofit.co/?p=2454 to https://spofit.co/product/custom-cap-sleeves-v-neck-american-football-jersey-premium-quality/
+21:05:58	Warning: 	Moved Permanently for https://spofit.co/?p=2362
+21:05:58	Warning: 	File has moved from https://spofit.co/?p=2362 to https://spofit.co/product/deep-raglan-lacrosse-jersey/
+21:05:58	Warning: 	Moved Permanently for https://spofit.co/?p=2576
+21:05:58	Warning: 	File has moved from https://spofit.co/?p=2576 to https://spofit.co/product/panel-sleeve-sweatshirt-baggy-crew-neck-style/
+21:06:07	Warning: 	Moved Permanently for https://spofit.co/?p=2492
+21:06:07	Warning: 	File has moved from https://spofit.co/?p=2492 to https://spofit.co/product/stylish-boxer-shorts-with-modern-side-vent/
+21:06:23	Warning: 	Moved Permanently for https://spofit.co/?p=2504
+21:06:23	Warning: 	File has moved from https://spofit.co/?p=2504 to https://spofit.co/product/dynamic-raglan-rash-guard-with-camo-sleeves/
+21:06:32	Warning: 	Moved Permanently for https://spofit.co/?p=2551
+21:06:32	Warning: 	File has moved from https://spofit.co/?p=2551 to https://spofit.co/product/polyester-trouser-with-rib-bottoms/
+21:06:39	Warning: 	Moved Permanently for https://spofit.co/?p=2648
+21:06:39	Warning: 	File has moved from https://spofit.co/?p=2648 to https://spofit.co/product/unique-sublimated-track-suit-performance-fit/
+21:06:43	Warning: 	Moved Permanently for https://spofit.co/?p=2555
+21:06:43	Warning: 	File has moved from https://spofit.co/?p=2555 to https://spofit.co/product/sublimated-cargo-pant-with-double-side-pocket/
+21:06:49	Warning: 	Moved Permanently for https://spofit.co/?p=2639
+21:06:49	Warning: 	File has moved from https://spofit.co/?p=2639 to https://spofit.co/product/elite-long-sleeved-compression-tee-raglan-fit/
+21:06:56	Warning: 	Moved Permanently for https://spofit.co/?p=2308
+21:06:56	Warning: 	File has moved from https://spofit.co/?p=2308 to https://spofit.co/product/long-sleeves-sports-shirt/
+21:06:56	Warning: 	Moved Permanently for https://spofit.co/?p=2299
+21:06:56	Warning: 	File has moved from https://spofit.co/?p=2299 to https://spofit.co/product/raglan-style-dynamic-sports-shirt/
+21:06:56	Warning: 	Moved Permanently for https://spofit.co/?p=2652
+21:06:56	Warning: 	File has moved from https://spofit.co/?p=2652 to https://spofit.co/product/round-neck-t-shirt-with-back-shoulder-panels/
+21:06:56	Warning: 	Moved Permanently for https://spofit.co/?p=2277
+21:06:56	Warning: 	File has moved from https://spofit.co/?p=2277 to https://spofit.co/product/vivid-hue-sublimated-tee/
+21:06:56	Warning: 	Moved Permanently for https://spofit.co/?p=2186
+21:06:56	Warning: 	File has moved from https://spofit.co/?p=2186 to https://spofit.co/product/womens-elite-soccer-jersey/
+21:06:56	Warning: 	Moved Permanently for https://spofit.co/?p=2570
+21:06:56	Warning: 	File has moved from https://spofit.co/?p=2570 to https://spofit.co/product/trendy-two-tone-pull-over-hoodie/
+21:07:00	Warning: 	Moved Permanently for https://spofit.co/?p=2517
+21:07:00	Warning: 	File has moved from https://spofit.co/?p=2517 to https://spofit.co/product/exclusive-sublimated-quarter-zip-hoodie/
+21:07:05	Warning: 	Moved Permanently for https://spofit.co/?p=2525
+21:07:05	Warning: 	File has moved from https://spofit.co/?p=2525 to https://spofit.co/product/innovative-panel-sleeved-pull-over-hoodie/
+21:07:07	Warning: 	Moved Permanently for https://spofit.co/?p=2212
+21:07:07	Warning: 	File has moved from https://spofit.co/?p=2212 to https://spofit.co/product/embrostyle-pullover-hoodie/
+21:07:07	Warning: 	Moved Permanently for https://spofit.co/?p=2599
+21:07:07	Warning: 	File has moved from https://spofit.co/?p=2599 to https://spofit.co/product/cut-and-sew-hoodie-with-double-shoulder-panel/
+21:07:07	Warning: 	Moved Permanently for https://spofit.co/?p=2529
+21:07:07	Warning: 	File has moved from https://spofit.co/?p=2529 to https://spofit.co/product/sturdy-panel-up-pullover-hoodie/
+21:07:11	Warning: 	Moved Permanently for https://spofit.co/?p=2263
+21:07:11	Warning: 	File has moved from https://spofit.co/?p=2263 to https://spofit.co/product/sublimated-emoji-fusion-hoodie/
+21:07:11	Warning: 	Moved Permanently for https://spofit.co/?p=2175
+21:07:11	Warning: 	File has moved from https://spofit.co/?p=2175 to https://spofit.co/product/sublimated-zipper-hoodie/
+21:07:11	Warning: 	Moved Permanently for https://spofit.co/?p=2357
+21:07:11	Warning: 	File has moved from https://spofit.co/?p=2357 to https://spofit.co/product/luxury-modern-boxer-shorts/
+21:07:11	Warning: 	Moved Permanently for https://spofit.co/?p=2315
+21:07:11	Warning: 	File has moved from https://spofit.co/?p=2315 to https://spofit.co/product/premium-sports-shorts-2/
+21:07:11	Warning: 	Moved Permanently for https://spofit.co/?p=2285
+21:07:11	Warning: 	File has moved from https://spofit.co/?p=2285 to https://spofit.co/product/sublimated-regular-shorts/
+21:07:11	Warning: 	Moved Permanently for https://spofit.co/?p=2631
+21:07:11	Warning: 	File has moved from https://spofit.co/?p=2631 to https://spofit.co/product/ultimate-sports-short-double-violet-pockets/
+21:07:11	Warning: 	Moved Permanently for https://spofit.co/?p=2533
+21:07:11	Warning: 	File has moved from https://spofit.co/?p=2533 to https://spofit.co/product/minimalist-round-neck-sweatshirt-panel-up-style/
+21:07:14	Warning: 	Moved Permanently for https://spofit.co/?p=2330
+21:07:14	Warning: 	File has moved from https://spofit.co/?p=2330 to https://spofit.co/product/raglan-style-sports-jacket/
+21:07:14	Warning: 	Moved Permanently for https://spofit.co/?p=2268
+21:07:14	Warning: 	File has moved from https://spofit.co/?p=2268 to https://spofit.co/product/sublimated-comic-blast-polo/
+21:07:14	Warning: 	Moved Permanently for https://spofit.co/?p=2459
+21:07:14	Warning: 	File has moved from https://spofit.co/?p=2459 to https://spofit.co/product/minimalist-puffer-vest-sleek-sleeveless-design/
+21:07:18	Warning: 	Moved Permanently for https://spofit.co/?p=2340
+21:07:18	Warning: 	File has moved from https://spofit.co/?p=2340 to https://spofit.co/product/premium-sports-singlet/
+21:07:18	Warning: 	Moved Permanently for https://spofit.co/?p=2547
+21:07:18	Warning: 	File has moved from https://spofit.co/?p=2547 to https://spofit.co/product/elasticated-track-pant-with-side-panel/
+21:07:28	Warning: 	Moved Permanently for https://spofit.co/?p=2588
+21:07:28	Warning: 	File has moved from https://spofit.co/?p=2588 to https://spofit.co/product/premium-track-bottom-double-front-panel-design/
+21:07:32	Warning: 	Moved Permanently for https://spofit.co/?p=2377
+21:07:32	Warning: 	File has moved from https://spofit.co/?p=2377 to https://spofit.co/product/button-up-cuffed-jogger/
+21:07:32	Warning: 	Moved Permanently for https://spofit.co/?p=2273
+21:07:32	Warning: 	File has moved from https://spofit.co/?p=2273 to https://spofit.co/product/sublimated-emoji-fusion-jogger/
+21:07:32	Warning: 	Moved Permanently for https://spofit.co/?p=2294
+21:07:32	Warning: 	File has moved from https://spofit.co/?p=2294 to https://spofit.co/product/ultra-flex-athletic-trackpant/
+21:07:32	Warning: 	Moved Permanently for https://spofit.co/?p=2289
+21:07:32	Warning: 	File has moved from https://spofit.co/?p=2289 to https://spofit.co/product/quarter-zip-sports-jacket/
+21:07:32	Warning: 	Moved Permanently for https://spofit.co/?p=2540
+21:07:32	Warning: 	File has moved from https://spofit.co/?p=2540 to https://spofit.co/product/reflective-cycling-jacket-with-kangaroo-pockets/
+21:07:37	Warning: 	Moved Permanently for https://spofit.co/?p=2356
+21:07:37	Warning: 	File has moved from https://spofit.co/?p=2356 to https://spofit.co/product/elite-print-athletic-training-vest/
+21:07:37	Warning: 	Moved Permanently for https://spofit.co/?p=2562
+21:07:37	Warning: 	File has moved from https://spofit.co/?p=2562 to https://spofit.co/product/reflective-unisex-mesh-training-bibs/
+21:07:44	Warning: 	Moved Permanently for https://spofit.co/product-category/team-wears/page/1/
+21:07:44	Warning: 	File has moved from https://spofit.co/product-category/team-wears/page/1/ to https://spofit.co/product-category/team-wears/
+21:07:44	Warning: 	Moved Permanently for https://spofit.co/?p=1938
+21:07:44	Warning: 	File has moved from https://spofit.co/?p=1938 to https://spofit.co/product/stain-varsity-jacket-with-pink-abstract/
+21:07:44	Warning: 	Moved Permanently for https://spofit.co/?p=2226
+21:07:44	Warning: 	File has moved from https://spofit.co/?p=2226 to https://spofit.co/product/comfy-women-bra/
+21:07:44	Warning: 	Moved Permanently for https://spofit.co/?p=2484
+21:07:44	Warning: 	File has moved from https://spofit.co/?p=2484 to https://spofit.co/product/elite-american-football-jersey-2/
+21:07:44	Warning: 	Moved Permanently for https://spofit.co/?p=2621
+21:07:44	Warning: 	File has moved from https://spofit.co/?p=2621 to https://spofit.co/product/elite-sublimated-motocross-uniform-set/
+21:07:49	Warning: 	Moved Permanently for https://spofit.co/?p=2488
+21:07:49	Warning: 	File has moved from https://spofit.co/?p=2488 to https://spofit.co/product/exclusive-american-football-jersey/
+21:07:49	Warning: 	Moved Permanently for https://spofit.co/?p=2617
+21:07:49	Warning: 	File has moved from https://spofit.co/?p=2617 to https://spofit.co/product/exclusiove-motocross-set-hue-sublimation/
+21:07:49	Error: 	"Not Found" (404) at link https://spofit.co/product/exclusiove-motocross-set-hue-sublimation/%22https:/spofit.co/wp-content/uploads/2024/10/Moto-Cross-Set-300x300.jpg (from https://spofit.co/product/exclusiove-motocross-set-hue-sublimation/)
+21:07:53	Warning: 	Moved Permanently for https://spofit.co/?p=1936
+21:07:53	Warning: 	File has moved from https://spofit.co/?p=1936 to https://spofit.co/product/frost-flower-varsity-jacket/
+21:07:53	Warning: 	Moved Permanently for https://spofit.co/?p=2391
+21:07:53	Warning: 	File has moved from https://spofit.co/?p=2391 to https://spofit.co/product/lace-neck-ice-ice-hockey-jersey/
+21:07:53	Warning: 	Moved Permanently for https://spofit.co/?p=2343
+21:07:53	Warning: 	File has moved from https://spofit.co/?p=2343 to https://spofit.co/product/performance-lacrosse-jersey/
+21:07:53	Warning: 	Moved Permanently for https://spofit.co/?p=2367
+21:07:53	Warning: 	File has moved from https://spofit.co/?p=2367 to https://spofit.co/product/premium-sleeveless-performance-jersey/
+21:07:53	Warning: 	Moved Permanently for https://spofit.co/?p=2395
+21:07:53	Warning: 	File has moved from https://spofit.co/?p=2395 to https://spofit.co/product/pro-neck-ice-hockey-jersey/
+21:07:53	Warning: 	Moved Permanently for https://spofit.co/?p=2583
+21:07:53	Warning: 	File has moved from https://spofit.co/?p=2583 to https://spofit.co/product/sublimated-baseball-jersey-v-neck-double-button-placket/
+21:07:58	Warning: 	Moved Permanently for https://spofit.co/?p=2382
+21:07:58	Warning: 	File has moved from https://spofit.co/?p=2382 to https://spofit.co/product/vintage-baseball-jersey/
+21:07:58	Warning: 	Moved Permanently for https://spofit.co/?p=2386
+21:07:58	Warning: 	File has moved from https://spofit.co/?p=2386 to https://spofit.co/product/v-neck-ice-hockey-jersey/
+21:07:58	Warning: 	Moved Permanently for https://spofit.co/?p=2347
+21:07:58	Warning: 	File has moved from https://spofit.co/?p=2347 to https://spofit.co/product/ultimate-vortex-lacrosse-jersey/
+21:07:58	Warning: 	Moved Permanently for https://spofit.co/?p=2511
+21:07:58	Warning: 	File has moved from https://spofit.co/?p=2511 to https://spofit.co/product/trendy-raglan-style-soccer-shirt/
+21:08:06	Warning: 	Moved Permanently for https://spofit.co/?p=2627
+21:08:06	Warning: 	File has moved from https://spofit.co/?p=2627 to https://spofit.co/product/durable-motocross-uniform-jersey-set/
+21:08:06	Warning: 	Moved Permanently for https://spofit.co/?p=1942
+21:08:06	Warning: 	File has moved from https://spofit.co/?p=1942 to https://spofit.co/product/stain-varsity-jacket-with-abstract-texture/
+21:08:07	Warning: 	Moved Permanently for https://spofit.co/?p=1944
+21:08:07	Warning: 	File has moved from https://spofit.co/?p=1944 to https://spofit.co/product/stain-varsity-jacket-with-flower-texture-front/
+21:08:07	Warning: 	Moved Permanently for https://spofit.co/?p=1940
+21:08:07	Warning: 	File has moved from https://spofit.co/?p=1940 to https://spofit.co/product/stylish-varsity-jacket-with-flower-cartoon-pattern/
+21:08:07	Warning: 	Moved Permanently for https://spofit.co/product-category/active-wears/page/1/
+21:08:07	Warning: 	File has moved from https://spofit.co/product-category/active-wears/page/1/ to https://spofit.co/product-category/active-wears/
+21:08:07	Warning: 	Moved Permanently for https://spofit.co/?p=2372
+21:08:07	Warning: 	File has moved from https://spofit.co/?p=2372 to https://spofit.co/product/premium-sports-shorts/
+21:08:07	Error: 	"Not Found" (404) at link https://spofit.co/contact-us/$&/ (from https://spofit.co/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0)
+21:08:07	Error: 	"Not Found" (404) at link https://spofit.co/contact-us/blots/ (from https://spofit.co/wp-content/plugins/metform/public/assets/js/app.js?ver=3.8.8)
+21:08:07	Error: 	"Not Found" (404) at link https://spofit.co/contact-us/formats/ (from https://spofit.co/wp-content/plugins/metform/public/assets/js/app.js?ver=3.8.8)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 minutes 38 seconds : 1605 links scanned, 1494 files written (130012458 bytes overall) [96204986 bytes received at 40456 bytes/sec], 47988210 bytes transferred using HTTP compression in 892 files, ratio 21%, 15.1 requests per connection
+(30 errors, 161 warnings, 0 messages)
